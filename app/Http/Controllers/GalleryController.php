@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 
 class GalleryController extends Controller
 {
+
+
     public function index(Request $request)
     {
         $query = Gallery::query();
