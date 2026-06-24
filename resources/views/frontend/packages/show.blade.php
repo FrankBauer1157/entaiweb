@@ -104,7 +104,7 @@
                     <div class="card-body p-4">
                         <h5 class="fw-bold mb-3"><i class="fas fa-headset me-2" style="color:var(--primary);"></i>Need Help?</h5>
                         <p class="small text-muted mb-2">Our travel experts are ready to assist you.</p>
-                        <div class="mb-2"><i class="fas fa-phone-alt me-2" style="color:var(--primary);"></i>{{ setting('phone', '+254 700 000 000') }}</div>
+                        <div class="mb-2"><i class="fas fa-phone-alt me-2" style="color:var(--primary);"></i>{{ setting('phone', '+254 757 709105') }}</div>
                         <div><i class="fas fa-envelope me-2" style="color:var(--primary);"></i>{{ setting('email', 'info@entaikenya.com') }}</div>
                     </div>
                 </div>
